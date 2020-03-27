@@ -54,9 +54,9 @@
             android:layout_below="@id/name"
             android:layout_alignEnd="@id/slack_name"
             android:layout_alignRight="@id/slack_name"
-            android:layout_marginTop="51dp"
-            android:layout_marginEnd="-137dp"
-            android:layout_marginRight="-137dp"
+            android:layout_marginTop="82dp"
+            android:layout_marginEnd="-141dp"
+            android:layout_marginRight="-141dp"
             android:text="@string/username" />
 
         <TextView
@@ -71,9 +71,9 @@
             android:layout_below="@id/username"
             android:layout_alignEnd="@id/email_address"
             android:layout_alignRight="@id/email_address"
-            android:layout_marginTop="53dp"
-            android:layout_marginEnd="-209dp"
-            android:layout_marginRight="-209dp"
+            android:layout_marginTop="75dp"
+            android:layout_marginEnd="-200dp"
+            android:layout_marginRight="-200dp"
             android:text="@string/email" />
 
         <TextView
@@ -88,9 +88,9 @@
             android:layout_below="@id/email"
             android:layout_alignEnd="@id/tracks_name"
             android:layout_alignRight="@id/tracks_name"
-            android:layout_marginTop="80dp"
-            android:layout_marginEnd="-166dp"
-            android:layout_marginRight="-166dp"
+            android:layout_marginTop="72dp"
+            android:layout_marginEnd="-169dp"
+            android:layout_marginRight="-169dp"
             android:text="@string/track" />
 
 
